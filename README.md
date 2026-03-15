@@ -1,1 +1,1 @@
-# Patient-Diabetes-Analysis
+# MINI Patient-Diabetes-Analysis
